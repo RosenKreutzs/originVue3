@@ -1,0 +1,14 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 27826 3450' preserveAspectRatio='none' opacity="">
+    <defs>
+        <filter id='a' filterUnits='objectBoundingBox' x='-50%' y='-50%' width='200%' height='200%'>
+            <feOffset in='SourceGraphic' result='b' dy='20'/>
+            <feGaussianBlur in='b' stdDeviation='25'/>
+        </filter>
+    </defs>
+    <path filter='url(#a)' d='M13943 3336L5092 1668 0 708V0h27826v719l-5032 949z'/>
+    <path fill='#42B883' d='M13943 3336L5092 1668 0 708V0h27826v719l-5032 949z'/>
+    <path filter='url(#a)' d='M0 0h27826v371l-5067 955-8851 1668-8850-1668L0 373z'/>
+    <path fill='#7952B3' d='M0 0h27826v371l-5067 955-8851 1668-8850-1668L0 373z'/>
+    <path filter='url(#a)' d='M0 0h27826l-5065 954-8851 1668L5059 954 0 1z'/>
+    <path fill='#343a40' d='M0 0h27826l-5065 954-8851 1668L5059 954 0 1z'/>
+</svg>
